@@ -3,7 +3,7 @@ import "pe"
 rule SUSP_EXE_Alcatraz_Obfuscator_April_23 { 
     meta:
         description = "This rule detects samples obfuscated with Alcatraz."
-        author      = "Utku Corbaci / 0xReverse"
+        author      = "Utku Corbaci / 0xReverse / 0xreverse.com"
         date        = "2025-04-23"
         sharing     = "TLP:CLEAR"
         tags        = "windows,exe,suspicious,obfuscator"
